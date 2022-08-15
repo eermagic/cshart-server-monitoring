@@ -1,0 +1,11 @@
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.csproj.AssemblyReference.cache
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.csproj.SuggestedBindingRedirects.cache
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.Form1.resources
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.Properties.Resources.resources
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.csproj.GenerateResource.cache
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.csproj.CoreCompileInputs.cache
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\bin\Debug\SampleServerMonitoring.exe.config
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\bin\Debug\SampleServerMonitoring.exe
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\bin\Debug\SampleServerMonitoring.pdb
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.exe
+D:\Project\Teach\SampleServerMonitoring\SampleServerMonitoring\obj\Debug\SampleServerMonitoring.pdb
